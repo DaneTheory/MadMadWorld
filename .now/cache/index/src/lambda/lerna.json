@@ -1,0 +1,11 @@
+{
+  "packages": [
+    "api/*",
+    "packages/*",
+    "shared/*",
+    "www/*"
+  ],
+  "npmClient": "yarn",
+  "useWorkspaces": true,
+  "version": "independent"
+}
